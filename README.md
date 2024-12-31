@@ -67,5 +67,4 @@
 </p>
 
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan408" alt="chetan408" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetan408&show_icons=true&locale=en" alt="chetan408" /></p>
 
