@@ -67,4 +67,4 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetan408&show_icons=true&locale=en" alt="chetan408" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawan-r4ju" alt="pawan-r4ju" /></a> </p>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=pawan-r4ju&" alt="pawan-r4ju" /></p>
