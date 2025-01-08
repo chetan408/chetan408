@@ -75,6 +75,6 @@
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=chetan408" alt="chetan408" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=chetan408&theme=default&hide_border=true" alt="chetan408" />
 </p>
 
