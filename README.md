@@ -11,7 +11,7 @@
    </a>
 </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I'm currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **Full stack projects**
 
